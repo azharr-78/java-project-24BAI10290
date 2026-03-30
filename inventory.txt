@@ -1,0 +1,15 @@
+1,King Size Bed (Teak Wood),24999.00,8
+2,Queen Size Bed (Sheesham Wood),18499.00,12
+3,Single Bed (Metal Frame),7999.00,20
+4,3-Seater Sofa (Fabric),15999.00,6
+5,L-Shaped Sofa (Leatherette),28999.00,3
+6,Coffee Table (Glass Top),6499.00,15
+7,4-Door Wooden Wardrobe,21999.00,5
+8,2-Door Steel Almirah,12499.00,10
+9,Office Chair (Mesh Back),4999.00,18
+10,Executive Chair (Leather),9999.00,7
+11,Study Table with Shelf,5499.00,14
+12,Dining Table Set (6 Seater),34999.00,4
+13,Shoe Rack (5 Tier),2499.00,25
+14,Bookshelf (5 Shelf),4299.00,11
+15,TV Unit (Wall Mounted),8999.00,9
